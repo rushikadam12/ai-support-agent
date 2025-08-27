@@ -1,4 +1,5 @@
 from pydantic import BaseModel,Field,field_validator
+from typing import Any
 
 class ChatRequest(BaseModel):
       question:str=Field(...,min_length=5)
@@ -19,3 +20,8 @@ class ChatResponse(BaseModel):
             if not v.strip():
                   raise ValueError("answer field is required")
             return v
+
+class FileUpload(BaseModel):
+      status:int
+      message:str
+      content:Any

@@ -24,3 +24,81 @@
 2025-08-23 21:52:18,217 - support_bot - INFO -  | faq_answer----------->Our return policy allows returns within 30 days of purchase.
 2025-08-23 21:52:21,300 - support_bot - INFO -  | faq_answer----------->None
 2025-08-23 21:52:22,549 - support_bot - INFO - <----------get_agent_response() | content='Hello! Thank you for reaching out to ElectroMart.\n\nOur return policy allows for returns within **30 days of purchase** for most items. To be eligible for a return, the item must be in its original condition, with all accessories and packaging intact.\n\nThere are a few exceptions, such as opened software, personalized items, and certain hygiene products. For a full and detailed explanation of our return policy, including any exceptions, please visit the "Returns & Exchanges" page on our website.\n\nIf you have a specific item in mind or need further assistance, please don\'t hesitate to ask!' additional_kwargs={} response_metadata={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}, 'finish_reason': 'STOP', 'model_name': 'gemini-2.5-flash-lite', 'safety_ratings': []} id='run--1bdbb769-5ea0-4f44-845b-29fe9af085be-0' usage_metadata={'input_tokens': 59, 'output_tokens': 123, 'total_tokens': 182, 'input_token_details': {'cache_read': 0}}
+2025-08-27 23:24:41,871 - support_bot - INFO -  | faq_answer----------->None
+2025-08-27 23:24:43,641 - support_bot - INFO - <----------get_agent_response() | content='Hello! Thank you for reaching out to ElectroMart.\n\nOur return policy allows you to return most items within **30 days of purchase** for a full refund or exchange, provided the item is in its original condition with all packaging and accessories.\n\nSome exclusions may apply, such as opened software, personalized items, or certain hygiene products. For a detailed breakdown of our return policy and any specific exclusions, please visit the "Returns & Exchanges" section on our website.\n\nIf you have a specific item in mind or need further assistance, please don\'t hesitate to ask!' additional_kwargs={} response_metadata={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}, 'finish_reason': 'STOP', 'model_name': 'gemini-2.5-flash-lite', 'safety_ratings': []} id='run--42ee2880-5752-422c-8ea8-9f80d7c56447-0' usage_metadata={'input_tokens': 59, 'output_tokens': 117, 'total_tokens': 176, 'input_token_details': {'cache_read': 0}}
+2025-08-27 23:41:03,172 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app
+2025-08-27 23:41:03,173 - support_bot - INFO -  | error--------->module 'os' has no attribute 'join'
+2025-08-27 23:41:24,838 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app
+2025-08-27 23:41:24,838 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app\service\dm-series_privacy_notice.pdf
+2025-08-27 23:41:24,839 - support_bot - INFO -  | error--------->PdfReader.read() missing 1 required positional argument: 'stream'
+2025-08-27 23:41:55,401 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app
+2025-08-27 23:41:55,402 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app\service\dm-series_privacy_notice.pdf
+2025-08-27 23:41:55,403 - support_bot - INFO -  | error--------->[Errno 2] No such file or directory: 'C:\\Users\\Rushikesh Kadam\\OneDrive\\Documents\\code_space\\ai-support-agent\\backend\\app\\service\\dm-series_privacy_notice.pdf'
+2025-08-27 23:42:13,868 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app
+2025-08-27 23:42:13,868 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app\service\dm-series_privacy_notice.pdf
+2025-08-27 23:42:13,869 - support_bot - INFO -  | error--------->[Errno 2] No such file or directory: 'C:\\Users\\Rushikesh Kadam\\OneDrive\\Documents\\code_space\\ai-support-agent\\backend\\app\\service\\dm-series_privacy_notice.pdf'
+2025-08-27 23:44:36,548 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app
+2025-08-27 23:44:36,549 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app\service\dm-series_privacy_notice.pdf
+2025-08-27 23:44:36,549 - support_bot - INFO -  | error--------->[Errno 2] No such file or directory: 'C:\\Users\\Rushikesh Kadam\\OneDrive\\Documents\\code_space\\ai-support-agent\\backend\\app\\service\\dm-series_privacy_notice.pdf'
+2025-08-27 23:45:01,629 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app
+2025-08-27 23:45:01,629 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app\services\dm-series_privacy_notice.pdf
+2025-08-27 23:45:01,655 - support_bot - INFO -  | Notice of Privacy Practices
+Lenovo recognizes that privacy is of great importance to individuals everywhere – our customers, website 
+visitors, product users…everyone. This is why the responsible use and protection of personal and other 
+information under our care is a core Lenovo value.
+Our full privacy statement is available at the link below:
+https://www.lenovo.com/us/en/privacy/
+If you have any further questions or concerns, please feel free to reach us at: 
+privacy@lenovo.com
+To view this privacy statement in other languages, visit www.lenovo.com.
+Our partner, NetApp will also collect certain information when you use this device. More information about 
+NetApp’s privacy practices is available at the link below:
+https://www.netapp.com/us/legal/privacypolicy/index.aspx
+To view NetApp’s privacy policy in other languages, visit the sites below:  
+• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx
+• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx
+• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx
+• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx
+1 1
+First Edition (September 2018)
+© Copyright Lenovo 2018. 
+LENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective 
+owners. © 2018 Lenovo.
+LIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services 
+Administration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- 
+05925.
+Printed in China
+(1P) P/N: SP47A24948
+*1PSP47A24948*
+
+2025-08-27 23:45:27,273 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app
+2025-08-27 23:45:27,273 - support_bot - INFO -  | C:\Users\Rushikesh Kadam\OneDrive\Documents\code_space\ai-support-agent\backend\app\services\dm-series_privacy_notice.pdf
+2025-08-27 23:45:27,286 - support_bot - INFO -  | Notice of Privacy Practices
+Lenovo recognizes that privacy is of great importance to individuals everywhere – our customers, website 
+visitors, product users…everyone. This is why the responsible use and protection of personal and other 
+information under our care is a core Lenovo value.
+Our full privacy statement is available at the link below:
+https://www.lenovo.com/us/en/privacy/
+If you have any further questions or concerns, please feel free to reach us at: 
+privacy@lenovo.com
+To view this privacy statement in other languages, visit www.lenovo.com.
+Our partner, NetApp will also collect certain information when you use this device. More information about 
+NetApp’s privacy practices is available at the link below:
+https://www.netapp.com/us/legal/privacypolicy/index.aspx
+To view NetApp’s privacy policy in other languages, visit the sites below:  
+• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx
+• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx
+• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx
+• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx
+1 1
+First Edition (September 2018)
+© Copyright Lenovo 2018. 
+LENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective 
+owners. © 2018 Lenovo.
+LIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services 
+Administration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- 
+05925.
+Printed in China
+(1P) P/N: SP47A24948
+*1PSP47A24948*
+
