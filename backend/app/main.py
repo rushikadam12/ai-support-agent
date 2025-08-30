@@ -2,7 +2,13 @@ import uvicorn
 from fastapi import FastAPI
 from routes import chat
 
-app=FastAPI(title="Chat API")
+app=FastAPI(
+    title="Chat API",
+    description="AI_chat_app swagger docs",
+    version="1.0.0",
+    contact={
+        "name": "RK",
+    })
 
 app.include_router(chat.router)
 

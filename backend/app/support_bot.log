@@ -102,3 +102,292 @@ Printed in China
 (1P) P/N: SP47A24948
 *1PSP47A24948*
 
+2025-08-30 00:12:18,872 - support_bot - INFO -  | error--------->start_query() takes 0 positional arguments but 1 was given
+2025-08-30 00:12:34,175 - support_bot - INFO -  | error--------->There is no current event loop in thread 'asyncio_0'.
+2025-08-30 00:13:28,858 - support_bot - INFO -  | error--------->Error embedding content: 404 models/gemini-2.5-flash-lite is not found for API version v1beta, or is not supported for embedContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-30 00:13:29,301 - support_bot - INFO -  | error--------->Error embedding content: 404 models/gemini-2.5-flash-lite is not found for API version v1beta, or is not supported for embedContent. Call ListModels to see the list of available models and their supported methods.
+2025-08-30 00:15:10,486 - support_bot - INFO -  | error--------->module 'langchain.chains.retrieval_qa' has no attribute 'from_chains_type'
+2025-08-30 00:15:58,084 - support_bot - INFO -  | error--------->from_chains_type
+2025-08-30 00:20:45,289 - support_bot - INFO -  | error--------->from_chains_type
+2025-08-30 00:22:13,611 - support_bot - INFO -  | error--------->module 'langchain.chains.retrieval_qa' has no attribute 'from_chains_type'
+2025-08-30 00:22:15,028 - support_bot - INFO -  | error--------->module 'langchain.chains.retrieval_qa' has no attribute 'from_chains_type'
+2025-08-30 00:22:27,379 - support_bot - INFO -  | error--------->'module' object is not callable
+2025-08-30 00:25:29,550 - support_bot - INFO -  | error--------->create_retrieval_chain() got an unexpected keyword argument 'llm'
+2025-08-30 00:29:52,886 - support_bot - INFO -  | error--------->'NoneType' object has no attribute 'run'
+2025-08-30 00:30:14,622 - support_bot - INFO -  | error--------->'NoneType' object has no attribute 'invoke'
+2025-08-30 00:32:47,169 - support_bot - INFO -  | error--------->'NoneType' object has no attribute 'invoke'
+2025-08-30 00:36:20,134 - support_bot - INFO -  | This context refers to Lenovo's privacy policy. It also includes links to NetApp's privacy policy in various languages.
+2025-08-30 00:36:20,135 - support_bot - INFO -  | error--------->name 'text' is not defined
+2025-08-30 00:36:44,296 - support_bot - INFO -  | This appears to be a Lenovo company policy, specifically a privacy policy, as indicated by the copyright information and the inclusion of Lenovo trademarks. The document also provides links to privacy policies in German, Japanese, French, and Spanish.
+2025-08-30 00:36:44,296 - support_bot - INFO -  | error--------->name 'text' is not defined
+2025-08-30 00:37:27,394 - support_bot - INFO -  | This is the Lenovo Privacy Policy. It was first published in September 2018.
+2025-08-30 10:28:04,799 - support_bot - INFO - module 'time' has no attribute 'now' | save_file-------->
+2025-08-30 10:28:04,804 - support_bot - INFO -  | error--------->'NoneType' object has no attribute 'seek'
+2025-08-30 10:28:41,302 - support_bot - INFO - can only concatenate str (not "datetime.datetime") to str | save_file-------->
+2025-08-30 10:28:41,302 - support_bot - INFO -  | error--------->'NoneType' object has no attribute 'seek'
+2025-08-30 10:28:56,260 - support_bot - INFO - [Errno 22] Invalid argument: 'C:\\Users\\Rushikesh Kadam\\OneDrive\\Documents\\code_space\\ai-support-agent\\backend\\app\\session\\4b63e6a4-6e6b-4892-8258-d4aa46df8bdd2025-08-30 10:28:56.259067.pdf' | save_file-------->
+2025-08-30 10:28:56,260 - support_bot - INFO -  | error--------->'NoneType' object has no attribute 'seek'
+2025-08-30 10:29:43,638 - support_bot - INFO - [Errno 22] Invalid argument: 'C:\\Users\\Rushikesh Kadam\\OneDrive\\Documents\\code_space\\ai-support-agent\\backend\\app\\session\\743d0be3-92a3-42af-b12b-3fb54a1064d1_2025-08-30 10:29:43.638190.pdf' | save_file-------->
+2025-08-30 10:29:43,639 - support_bot - INFO -  | error--------->'NoneType' object has no attribute 'seek'
+2025-08-30 10:30:52,534 - support_bot - INFO -  | info---------------->
+2025-08-30 10:30:52,535 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x00000291CF9ECE00>
+2025-08-30 10:30:52,535 - support_bot - INFO -  | Data: {
+  "a95785d6-17f1-4b63-b119-b4bdcfec422a": []
+}
+2025-08-30 10:32:22,062 - support_bot - INFO -  | info---------------->
+2025-08-30 10:32:22,062 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000002F1AA3EB500>
+2025-08-30 10:32:22,063 - support_bot - INFO -  | Data: {
+  "eebc64d8-46be-4221-ac86-2de87b23d94d": []
+}
+2025-08-30 10:42:31,464 - support_bot - INFO -  | info---------------->
+2025-08-30 10:42:31,464 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000002B0CAD93F20>
+2025-08-30 10:42:31,465 - support_bot - INFO -  | Data: {
+  "bda1f8c5-a2d1-4b2b-b8b1-094931d2eeb8": []
+}
+2025-08-30 10:57:48,316 - support_bot - INFO -  | error--------->'eebc64d8-46be-4221-ac86-2de87b23d94d'
+2025-08-30 10:58:12,651 - support_bot - INFO -  | error--------->'eebc64d8-46be-4221-ac86-2de87b23d94d'
+2025-08-30 10:58:25,732 - support_bot - INFO -  | error--------->'eebc64d8-46be-4221-ac86-2de87b23d94d'
+2025-08-30 10:59:02,608 - support_bot - INFO -  | error--------->'eebc64d8-46be-4221-ac86-2de87b23d94d'
+2025-08-30 10:59:05,022 - support_bot - INFO -  | error--------->'eebc64d8-46be-4221-ac86-2de87b23d94d'
+2025-08-30 10:59:25,932 - support_bot - INFO -  | info---------------->
+2025-08-30 10:59:25,932 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000026ADA21A9F0>
+2025-08-30 10:59:25,932 - support_bot - INFO -  | Data: {
+  "c39c04a1-406b-4075-a29e-a2f15c74f9d7": []
+}
+2025-08-30 10:59:40,430 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 10:59:55,600 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:13:06,301 - support_bot - INFO -  | info---------------->
+2025-08-30 11:13:06,302 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000019E9FAADE50>
+2025-08-30 11:13:06,302 - support_bot - INFO -  | Data: {
+  "77a54b45-15d6-43b0-aa72-2b6960594675": []
+}
+2025-08-30 11:13:25,659 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:14:43,713 - support_bot - INFO -  | error--------->'77a54b45-15d6-43b0-aa72-2b6960594675'
+2025-08-30 11:14:48,223 - support_bot - INFO -  | error--------->'77a54b45-15d6-43b0-aa72-2b6960594675'
+2025-08-30 11:15:06,084 - support_bot - INFO -  | info---------------->
+2025-08-30 11:15:06,084 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000001F9DA959AF0>
+2025-08-30 11:15:06,085 - support_bot - INFO -  | Data: {
+  "5d5a1ecc-1687-4040-9385-6efb13a59bae": []
+}
+2025-08-30 11:15:20,411 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:15:26,771 - support_bot - INFO -  | error--------->'5d5a1ecc-1687-4040-9385-6efb13a59bae'
+2025-08-30 11:16:03,735 - support_bot - INFO -  | error--------->'5d5a1ecc-1687-4040-9385-6efb13a59bae'
+2025-08-30 11:16:20,162 - support_bot - INFO -  | info---------------->
+2025-08-30 11:16:20,163 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000001F1783EE0C0>
+2025-08-30 11:16:20,164 - support_bot - INFO -  | Data: {
+  "759d7195-83ce-4dd2-b987-b1442b614eed": []
+}
+2025-08-30 11:16:35,156 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:18:46,398 - support_bot - INFO -  | error--------->'759d7195-83ce-4dd2-b987-b1442b614eed'
+2025-08-30 11:19:25,234 - support_bot - INFO -  | error--------->'759d7195-83ce-4dd2-b987-b1442b614eed'
+2025-08-30 11:20:01,698 - support_bot - INFO -  | 759d7195-83ce-4dd2-b987-b1442b614eed
+2025-08-30 11:20:01,698 - support_bot - INFO -  | error--------->'759d7195-83ce-4dd2-b987-b1442b614eed'
+2025-08-30 11:20:05,834 - support_bot - INFO -  | 759d7195-83ce-4dd2-b987-b1442b614eed
+2025-08-30 11:20:05,834 - support_bot - INFO -  | error--------->'759d7195-83ce-4dd2-b987-b1442b614eed'
+2025-08-30 11:20:32,436 - support_bot - INFO -  | 759d7195-83ce-4dd2-b987-b1442b614eed
+2025-08-30 11:20:32,437 - support_bot - INFO -  | error--------->'759d7195-83ce-4dd2-b987-b1442b614eed'
+2025-08-30 11:20:36,436 - support_bot - INFO -  | 759d7195-83ce-4dd2-b987-b1442b614eed
+2025-08-30 11:20:36,436 - support_bot - INFO -  | error--------->'759d7195-83ce-4dd2-b987-b1442b614eed'
+2025-08-30 11:26:24,659 - support_bot - INFO -  | 759d7195-83ce-4dd2-b987-b1442b614eed
+2025-08-30 11:26:24,659 - support_bot - INFO -  | error--------->'759d7195-83ce-4dd2-b987-b1442b614eed'
+2025-08-30 11:26:31,046 - support_bot - INFO -  | 759d7195-83ce-4dd2-b987-b1442b614eed
+2025-08-30 11:26:31,047 - support_bot - INFO -  | error--------->'759d7195-83ce-4dd2-b987-b1442b614eed'
+2025-08-30 11:27:11,699 - support_bot - INFO -  | 759d7195-83ce-4dd2-b987-b1442b614eed
+2025-08-30 11:27:11,699 - support_bot - INFO -  | error--------->cannot access local variable 'VectorStore' where it is not associated with a value
+2025-08-30 11:27:24,190 - support_bot - INFO -  | 759d7195-83ce-4dd2-b987-b1442b614eed
+2025-08-30 11:27:24,191 - support_bot - INFO - {} | vectore_store==>
+2025-08-30 11:27:24,191 - support_bot - INFO -  | error--------->'759d7195-83ce-4dd2-b987-b1442b614eed'
+2025-08-30 11:27:38,007 - support_bot - INFO -  | info---------------->
+2025-08-30 11:27:38,009 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x00000230BB97FC20>
+2025-08-30 11:27:38,011 - support_bot - INFO -  | Data: {
+  "b7b18661-3330-4e8a-97d2-334a9f7a19e4": []
+}
+2025-08-30 11:27:50,831 - support_bot - INFO -  | b7b18661-3330-4e8a-97d2-334a9f7a19e4
+2025-08-30 11:27:50,831 - support_bot - INFO - {'b7b18661-3330-4e8a-97d2-334a9f7a19e4': <langchain_community.vectorstores.chroma.Chroma object at 0x00000230BB97FC20>} | vectore_store==>
+2025-08-30 11:27:50,831 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:28:20,214 - support_bot - INFO -  | b7b18661-3330-4e8a-97d2-334a9f7a19e4
+2025-08-30 11:28:20,215 - support_bot - INFO - {'b7b18661-3330-4e8a-97d2-334a9f7a19e4': <langchain_community.vectorstores.chroma.Chroma object at 0x00000230BB97FC20>} | vectore_store==>
+2025-08-30 11:28:20,216 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:35:34,512 - support_bot - INFO -  | info---------------->
+2025-08-30 11:35:34,513 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000023EE5E165D0>
+2025-08-30 11:35:34,513 - support_bot - INFO -  | Data: {
+  "d6e68287-e03c-41e6-9d53-7471523c26f2": []
+}
+2025-08-30 11:36:07,110 - support_bot - INFO -  | d6e68287-e03c-41e6-9d53-7471523c26f2
+2025-08-30 11:36:07,110 - support_bot - INFO - {'d6e68287-e03c-41e6-9d53-7471523c26f2': <langchain_community.vectorstores.chroma.Chroma object at 0x0000023EE5E165D0>} | vectore_store==>
+2025-08-30 11:36:07,111 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:40:42,318 - support_bot - INFO -  | info---------------->
+2025-08-30 11:40:42,318 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000020532475E20>
+2025-08-30 11:40:42,331 - support_bot - INFO -  | Data: {
+  "4d9ebefa-086b-4cbc-a3e8-4f0195faba6e": []
+}
+2025-08-30 11:41:08,873 - support_bot - INFO -  | 4d9ebefa-086b-4cbc-a3e8-4f0195faba6e
+2025-08-30 11:41:08,876 - support_bot - INFO - {} | vectore_store==>
+2025-08-30 11:41:08,877 - support_bot - INFO -  | error--------->'4d9ebefa-086b-4cbc-a3e8-4f0195faba6e'
+2025-08-30 11:41:17,775 - support_bot - INFO -  | info---------------->
+2025-08-30 11:41:17,775 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000024E575BE510>
+2025-08-30 11:41:17,776 - support_bot - INFO -  | Data: {
+  "90007165-a0ff-4363-9bed-ae61dab4389e": []
+}
+2025-08-30 11:41:31,502 - support_bot - INFO -  | 90007165-a0ff-4363-9bed-ae61dab4389e
+2025-08-30 11:41:31,502 - support_bot - INFO - {'90007165-a0ff-4363-9bed-ae61dab4389e': <langchain_community.vectorstores.chroma.Chroma object at 0x0000024E575BE510>} | vectore_store==>
+2025-08-30 11:41:31,502 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:45:57,050 - support_bot - INFO -  | info---------------->
+2025-08-30 11:45:57,058 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000021BEAFBA690>
+2025-08-30 11:45:57,062 - support_bot - INFO -  | Data: {
+  "2d254166-24dc-40d6-b505-7107156a7131": []
+}
+2025-08-30 11:46:08,906 - support_bot - INFO -  | 2d254166-24dc-40d6-b505-7107156a713
+2025-08-30 11:46:08,906 - support_bot - INFO - {'2d254166-24dc-40d6-b505-7107156a7131': <langchain_community.vectorstores.chroma.Chroma object at 0x0000021BEAFBA690>} | vectore_store==>
+2025-08-30 11:46:08,907 - support_bot - INFO -  | error--------->'2d254166-24dc-40d6-b505-7107156a713'
+2025-08-30 11:47:05,098 - support_bot - INFO -  | info---------------->
+2025-08-30 11:47:05,101 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x00000253F89AF980>
+2025-08-30 11:47:05,103 - support_bot - INFO -  | Data: {
+  "385d687a-d0dd-4f07-b68b-b6389a05744b": []
+}
+2025-08-30 11:47:18,054 - support_bot - INFO -  | 385d687a-d0dd-4f07-b68b-b6389a05744b
+2025-08-30 11:47:18,056 - support_bot - INFO - {'385d687a-d0dd-4f07-b68b-b6389a05744b': <langchain_community.vectorstores.chroma.Chroma object at 0x00000253F89AF980>} | vectore_store==>
+2025-08-30 11:47:18,057 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:56:02,219 - support_bot - INFO -  | info---------------->
+2025-08-30 11:56:02,220 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x00000215FFF73F20>
+2025-08-30 11:56:02,220 - support_bot - INFO -  | Data: {
+  "5ee643bb-a8b1-42a4-aff5-3923bcd8686c": []
+}
+2025-08-30 11:56:23,008 - support_bot - INFO -  | 5ee643bb-a8b1-42a4-aff5-3923bcd8686c
+2025-08-30 11:56:23,009 - support_bot - INFO - {'5ee643bb-a8b1-42a4-aff5-3923bcd8686c': <langchain_community.vectorstores.chroma.Chroma object at 0x00000215FFF73F20>} | vectore_store==>
+2025-08-30 11:56:23,009 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 11:56:26,221 - support_bot - INFO -  | 5ee643bb-a8b1-42a4-aff5-3923bcd8686c
+2025-08-30 11:56:26,221 - support_bot - INFO - {'5ee643bb-a8b1-42a4-aff5-3923bcd8686c': <langchain_community.vectorstores.chroma.Chroma object at 0x00000215FFF73F20>} | vectore_store==>
+2025-08-30 11:56:26,221 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 12:01:52,809 - support_bot - INFO -  | 5ee643bb-a8b1-42a4-aff5-3923bcd8686c
+2025-08-30 12:01:52,809 - support_bot - INFO - {} | vectore_store==>
+2025-08-30 12:01:52,810 - support_bot - INFO -  | error--------->'5ee643bb-a8b1-42a4-aff5-3923bcd8686c'
+2025-08-30 12:01:59,480 - support_bot - INFO -  | info---------------->
+2025-08-30 12:01:59,481 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000001E915000530>
+2025-08-30 12:01:59,482 - support_bot - INFO -  | Data: {
+  "5da9183b-96c0-480d-abfe-587e48b5e2ca": []
+}
+2025-08-30 12:02:30,200 - support_bot - INFO -  | 5da9183b-96c0-480d-abfe-587e48b5e2ca
+2025-08-30 12:02:30,200 - support_bot - INFO - {'5da9183b-96c0-480d-abfe-587e48b5e2ca': <langchain_community.vectorstores.chroma.Chroma object at 0x000001E915000530>} | vectore_store==>
+2025-08-30 12:02:30,201 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-30 12:04:59,060 - support_bot - INFO -  | info---------------->
+2025-08-30 12:04:59,063 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x00000248FF880F50>
+2025-08-30 12:04:59,064 - support_bot - INFO -  | Data: {
+  "bcfda193-da4d-4e8a-a725-4039af68e6eb": []
+}
+2025-08-30 12:05:09,359 - support_bot - INFO -  | bcfda193-da4d-4e8a-a725-4039af68e6eb
+2025-08-30 12:05:09,360 - support_bot - INFO - {'bcfda193-da4d-4e8a-a725-4039af68e6eb': <langchain_community.vectorstores.chroma.Chroma object at 0x00000248FF880F50>} | vectore_store==>
+2025-08-30 12:06:42,265 - support_bot - INFO -  | info---------------->
+2025-08-30 12:06:42,269 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000016BCB4E3F20>
+2025-08-30 12:06:42,270 - support_bot - INFO -  | Data: {
+  "35ec0dc5-5116-431f-befe-2845ff6bd418": []
+}
+2025-08-30 12:06:43,413 - support_bot - INFO -  | info---------------->
+2025-08-30 12:06:43,416 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000016BCBB50B00>
+2025-08-30 12:06:43,418 - support_bot - INFO -  | Data: {
+  "35ec0dc5-5116-431f-befe-2845ff6bd418": [],
+  "3c2d953d-d102-4457-a085-be987c7aeb1d": []
+}
+2025-08-30 12:06:44,419 - support_bot - INFO -  | info---------------->
+2025-08-30 12:06:44,422 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000016BCBCBFCE0>
+2025-08-30 12:06:44,425 - support_bot - INFO -  | Data: {
+  "35ec0dc5-5116-431f-befe-2845ff6bd418": [],
+  "3c2d953d-d102-4457-a085-be987c7aeb1d": [],
+  "2a8b0e7a-50dd-44ba-bc7f-0f14e5fcdbcd": []
+}
+2025-08-30 12:07:50,302 - support_bot - INFO -  | info---------------->
+2025-08-30 12:07:50,302 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000002C5FFDCFC20>
+2025-08-30 12:07:50,303 - support_bot - INFO -  | Data: {
+  "2177a8ae-84f3-4328-87fe-dfadd3fee38d": []
+}
+2025-08-30 12:08:06,260 - support_bot - INFO -  | 2177a8ae-84f3-4328-87fe-dfadd3fee38d
+2025-08-30 12:08:06,261 - support_bot - INFO - {'2177a8ae-84f3-4328-87fe-dfadd3fee38d': <langchain_community.vectorstores.chroma.Chroma object at 0x000002C5FFDCFC20>} | vectore_store==>
+2025-08-30 12:08:06,261 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-31 00:32:46,714 - support_bot - INFO -  | info---------------->
+2025-08-31 00:32:46,715 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000001ABAC2F4FB0>
+2025-08-31 00:32:46,715 - support_bot - INFO -  | Data: {
+  "fe2b7bf2-d369-4366-ad6f-c70280f640cd": []
+}
+2025-08-31 00:33:16,535 - support_bot - INFO -  | fe2b7bf2-d369-4366-ad6f-c70280f640cd
+2025-08-31 00:33:16,543 - support_bot - INFO - {'fe2b7bf2-d369-4366-ad6f-c70280f640cd': <langchain_community.vectorstores.chroma.Chroma object at 0x000001ABAC2F4FB0>} | vectore_store==>
+2025-08-31 00:33:16,551 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-31 00:38:06,244 - support_bot - INFO -  | info---------------->
+2025-08-31 00:38:06,250 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x00000147D65C20C0>
+2025-08-31 00:38:06,252 - support_bot - INFO -  | Data: {
+  "1b444f61-1eae-4f32-a646-79643e1becc1": []
+}
+2025-08-31 00:38:27,599 - support_bot - INFO -  | 1b444f61-1eae-4f32-a646-79643e1becc1
+2025-08-31 00:38:27,600 - support_bot - INFO - {'1b444f61-1eae-4f32-a646-79643e1becc1': <langchain_community.vectorstores.chroma.Chroma object at 0x00000147D65C20C0>} | vectore_store==>
+2025-08-31 00:38:27,602 - support_bot - INFO -  | error--------->argument of type 'Chroma' is not iterable
+2025-08-31 00:39:43,755 - support_bot - INFO -  | info---------------->
+2025-08-31 00:39:43,756 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000027AD6B7E6F0>
+2025-08-31 00:39:43,758 - support_bot - INFO -  | Data: {
+  "ca650e4a-c762-4b86-a5a4-a7571564e79c": []
+}
+2025-08-31 00:40:11,398 - support_bot - INFO -  | ca650e4a-c762-4b86-a5a4-a7571564e79c
+2025-08-31 00:40:11,398 - support_bot - INFO - {'ca650e4a-c762-4b86-a5a4-a7571564e79c': <langchain_community.vectorstores.chroma.Chroma object at 0x0000027AD6B7E6F0>} | vectore_store==>
+2025-08-31 00:40:11,399 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x0000027AD6B7E6F0>
+2025-08-31 00:40:11,399 - support_bot - INFO -  | before_get_agent_response
+2025-08-31 00:40:11,399 - support_bot - INFO - <class 'langchain_community.vectorstores.chroma.Chroma'> | type:
+2025-08-31 00:40:11,399 - support_bot - INFO -  | <class 'langchain_core.vectorstores.base.VectorStoreRetriever'>
+2025-08-31 00:40:11,932 - support_bot - INFO -  | Number of docs retrieved: 4
+2025-08-31 00:40:11,932 - support_bot - INFO - Notice of Privacy Practices
+Lenovo recognizes that privacy is of great importance to individuals eve | Context string:
+2025-08-31 00:40:11,933 - support_bot - INFO - {'context': 'Notice of Privacy Practices\nLenovo recognizes that privacy is of great importance to individuals everywhere – our customers, website \nvisitors, product users…everyone. This is why the responsible use and protection of personal and other \ninformation under our care is a core Lenovo value.\nOur full privacy statement is available at the link below:\nhttps://www.lenovo.com/us/en/privacy/\nIf you have any further questions or concerns, please feel free to reach us at: \nprivacy@lenovo.com\nTo view this privacy statement in other languages, visit www.lenovo.com.\nOur partner, NetApp will also collect certain information when you use this device. More information about \nNetApp’s privacy practices is available at the link below:\nhttps://www.netapp.com/us/legal/privacypolicy/index.aspx\nTo view NetApp’s privacy policy in other languages, visit the sites below:  \n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n\nNotice of Privacy Practices\nLenovo recognizes that privacy is of great importance to individuals everywhere – our customers, website \nvisitors, product users…everyone. This is why the responsible use and protection of personal and other \ninformation under our care is a core Lenovo value.\nOur full privacy statement is available at the link below:\nhttps://www.lenovo.com/us/en/privacy/\nIf you have any further questions or concerns, please feel free to reach us at: \nprivacy@lenovo.com\nTo view this privacy statement in other languages, visit www.lenovo.com.\nOur partner, NetApp will also collect certain information when you use this device. More information about \nNetApp’s privacy practices is available at the link below:\nhttps://www.netapp.com/us/legal/privacypolicy/index.aspx\nTo view NetApp’s privacy policy in other languages, visit the sites below:  \n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n\nNotice of Privacy Practices\nLenovo recognizes that privacy is of great importance to individuals everywhere – our customers, website \nvisitors, product users…everyone. This is why the responsible use and protection of personal and other \ninformation under our care is a core Lenovo value.\nOur full privacy statement is available at the link below:\nhttps://www.lenovo.com/us/en/privacy/\nIf you have any further questions or concerns, please feel free to reach us at: \nprivacy@lenovo.com\nTo view this privacy statement in other languages, visit www.lenovo.com.\nOur partner, NetApp will also collect certain information when you use this device. More information about \nNetApp’s privacy practices is available at the link below:\nhttps://www.netapp.com/us/legal/privacypolicy/index.aspx\nTo view NetApp’s privacy policy in other languages, visit the sites below:  \n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n\nNotice of Privacy Practices\nLenovo recognizes that privacy is of great importance to individuals everywhere – our customers, website \nvisitors, product users…everyone. This is why the responsible use and protection of personal and other \ninformation under our care is a core Lenovo value.\nOur full privacy statement is available at the link below:\nhttps://www.lenovo.com/us/en/privacy/\nIf you have any further questions or concerns, please feel free to reach us at: \nprivacy@lenovo.com\nTo view this privacy statement in other languages, visit www.lenovo.com.\nOur partner, NetApp will also collect certain information when you use this device. More information about \nNetApp’s privacy practices is available at the link below:\nhttps://www.netapp.com/us/legal/privacypolicy/index.aspx\nTo view NetApp’s privacy policy in other languages, visit the sites below:  \n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx', 'question': "what's policy is about"} | LLM inputs:
+2025-08-31 00:40:13,443 - support_bot - INFO - <----------get_agent_response() | content="The policy is about Lenovo's commitment to the responsible use and protection of personal information. It highlights that privacy is a core value for Lenovo, affecting customers, website visitors, and product users. The full privacy statement can be found at the provided link." additional_kwargs={} response_metadata={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}, 'finish_reason': 'STOP', 'model_name': 'gemini-2.5-flash-lite', 'safety_ratings': []} id='run--d0f77dcc-fef5-4a81-bed8-8208e1b486c3-0' usage_metadata={'input_tokens': 1086, 'output_tokens': 51, 'total_tokens': 1137, 'input_token_details': {'cache_read': 0}}
+2025-08-31 00:40:13,443 - support_bot - INFO -  | The policy is about Lenovo's commitment to the responsible use and protection of personal information. It highlights that privacy is a core value for Lenovo, affecting customers, website visitors, and product users. The full privacy statement can be found at the provided link.
+2025-08-31 00:41:02,815 - support_bot - INFO -  | ca650e4a-c762-4b86-a5a4-a7571564e79c
+2025-08-31 00:41:02,817 - support_bot - INFO - {} | vectore_store==>
+2025-08-31 00:41:34,053 - support_bot - INFO -  | info---------------->
+2025-08-31 00:41:34,057 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000002205FF789E0>
+2025-08-31 00:41:34,062 - support_bot - INFO -  | Data: {
+  "600f210a-7765-4ddc-a416-ba43d0c44bbd": []
+}
+2025-08-31 00:41:55,505 - support_bot - INFO -  | 600f210a-7765-4ddc-a416-ba43d0c44bbd
+2025-08-31 00:41:55,505 - support_bot - INFO - {'600f210a-7765-4ddc-a416-ba43d0c44bbd': <langchain_community.vectorstores.chroma.Chroma object at 0x000002205FF789E0>} | vectore_store==>
+2025-08-31 00:41:55,506 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000002205FF789E0>
+2025-08-31 00:41:55,506 - support_bot - INFO -  | before_get_agent_response
+2025-08-31 00:41:55,506 - support_bot - INFO - <class 'langchain_community.vectorstores.chroma.Chroma'> | type:
+2025-08-31 00:41:55,507 - support_bot - INFO -  | <class 'langchain_core.vectorstores.base.VectorStoreRetriever'>
+2025-08-31 00:41:56,009 - support_bot - INFO -  | Number of docs retrieved: 4
+2025-08-31 00:41:56,010 - support_bot - INFO - • German: https://www.netapp.com/de/legal/privacypolicy/index.aspx
+• Japanese: https://www.netapp.co | Context string:
+2025-08-31 00:41:56,010 - support_bot - INFO - {'context': '• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*', 'question': "can explain me this policy's"} | LLM inputs:
+2025-08-31 00:41:57,680 - support_bot - INFO - <----------get_agent_response() | content="The provided text includes links to NetApp's privacy policies in German, Japanese, French, and Spanish. It also contains copyright information for Lenovo from 2018, including trademark details and a notice regarding restricted rights for data or software delivered under a GSA contract. The document also states it was printed in China." additional_kwargs={} response_metadata={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}, 'finish_reason': 'STOP', 'model_name': 'gemini-2.5-flash-lite', 'safety_ratings': []} id='run--1e2ee953-b8a4-44a5-9629-6fa5a6e5570b-0' usage_metadata={'input_tokens': 1095, 'output_tokens': 66, 'total_tokens': 1161, 'input_token_details': {'cache_read': 0}}
+2025-08-31 00:41:57,681 - support_bot - INFO -  | The provided text includes links to NetApp's privacy policies in German, Japanese, French, and Spanish. It also contains copyright information for Lenovo from 2018, including trademark details and a notice regarding restricted rights for data or software delivered under a GSA contract. The document also states it was printed in China.
+2025-08-31 00:42:37,099 - support_bot - INFO -  | 600f210a-7765-4ddc-a416-ba43d0c44bbd
+2025-08-31 00:42:37,099 - support_bot - INFO - {'600f210a-7765-4ddc-a416-ba43d0c44bbd': <langchain_community.vectorstores.chroma.Chroma object at 0x000002205FF789E0>} | vectore_store==>
+2025-08-31 00:42:37,099 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000002205FF789E0>
+2025-08-31 00:42:37,099 - support_bot - INFO -  | before_get_agent_response
+2025-08-31 00:42:37,099 - support_bot - INFO - <class 'langchain_community.vectorstores.chroma.Chroma'> | type:
+2025-08-31 00:42:37,099 - support_bot - INFO -  | <class 'langchain_core.vectorstores.base.VectorStoreRetriever'>
+2025-08-31 00:42:37,610 - support_bot - INFO -  | Number of docs retrieved: 4
+2025-08-31 00:42:37,610 - support_bot - INFO - • German: https://www.netapp.com/de/legal/privacypolicy/index.aspx
+• Japanese: https://www.netapp.co | Context string:
+2025-08-31 00:42:37,610 - support_bot - INFO - {'context': '• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*', 'question': "can give breif what are this policy's"} | LLM inputs:
+2025-08-31 00:42:38,998 - support_bot - INFO - <----------get_agent_response() | content='The provided text lists privacy policies for NetApp in German, Japanese, French, and Spanish. It also includes copyright information for Lenovo from 2018 and a notice regarding restricted rights for data or software delivered under a GSA contract.' additional_kwargs={} response_metadata={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}, 'finish_reason': 'STOP', 'model_name': 'gemini-2.5-flash-lite', 'safety_ratings': []} id='run--089901da-1062-4b38-8049-8c71bec769d6-0' usage_metadata={'input_tokens': 1098, 'output_tokens': 49, 'total_tokens': 1147, 'input_token_details': {'cache_read': 0}}
+2025-08-31 00:42:38,998 - support_bot - INFO -  | The provided text lists privacy policies for NetApp in German, Japanese, French, and Spanish. It also includes copyright information for Lenovo from 2018 and a notice regarding restricted rights for data or software delivered under a GSA contract.
+2025-08-31 00:43:42,608 - support_bot - INFO -  | 600f210a-7765-4ddc-a416-ba43d0c44bbd
+2025-08-31 00:43:42,610 - support_bot - INFO - {'600f210a-7765-4ddc-a416-ba43d0c44bbd': <langchain_community.vectorstores.chroma.Chroma object at 0x000002205FF789E0>} | vectore_store==>
+2025-08-31 00:43:42,611 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000002205FF789E0>
+2025-08-31 00:43:42,613 - support_bot - INFO -  | before_get_agent_response
+2025-08-31 00:43:42,615 - support_bot - INFO - <class 'langchain_community.vectorstores.chroma.Chroma'> | type:
+2025-08-31 00:43:42,620 - support_bot - INFO -  | <class 'langchain_core.vectorstores.base.VectorStoreRetriever'>
+2025-08-31 00:43:43,093 - support_bot - INFO -  | Number of docs retrieved: 4
+2025-08-31 00:43:43,095 - support_bot - INFO - • German: https://www.netapp.com/de/legal/privacypolicy/index.aspx
+• Japanese: https://www.netapp.co | Context string:
+2025-08-31 00:43:43,097 - support_bot - INFO - {'context': '• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*', 'question': 'can goes english links and get some info for me for service policy under warrenty'} | LLM inputs:
+2025-08-31 00:43:46,259 - support_bot - INFO - <----------get_agent_response() | content='I cannot find information about service policies under warranty in the provided context. The links that are available are for privacy policies in German, Japanese, French, and Spanish.' additional_kwargs={} response_metadata={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}, 'finish_reason': 'STOP', 'model_name': 'gemini-2.5-flash-lite', 'safety_ratings': []} id='run--14644955-6d61-4700-8656-4dc867da50dd-0' usage_metadata={'input_tokens': 1105, 'output_tokens': 33, 'total_tokens': 1138, 'input_token_details': {'cache_read': 0}}
+2025-08-31 00:43:46,261 - support_bot - INFO -  | I cannot find information about service policies under warranty in the provided context. The links that are available are for privacy policies in German, Japanese, French, and Spanish.
+2025-08-31 00:44:13,510 - support_bot - INFO -  | 600f210a-7765-4ddc-a416-ba43d0c44bbd
+2025-08-31 00:44:13,511 - support_bot - INFO - {'600f210a-7765-4ddc-a416-ba43d0c44bbd': <langchain_community.vectorstores.chroma.Chroma object at 0x000002205FF789E0>} | vectore_store==>
+2025-08-31 00:44:13,511 - support_bot - INFO -  | <langchain_community.vectorstores.chroma.Chroma object at 0x000002205FF789E0>
+2025-08-31 00:44:13,511 - support_bot - INFO -  | before_get_agent_response
+2025-08-31 00:44:13,512 - support_bot - INFO - <class 'langchain_community.vectorstores.chroma.Chroma'> | type:
+2025-08-31 00:44:13,512 - support_bot - INFO -  | <class 'langchain_core.vectorstores.base.VectorStoreRetriever'>
+2025-08-31 00:44:13,984 - support_bot - INFO -  | Number of docs retrieved: 4
+2025-08-31 00:44:14,000 - support_bot - INFO - • German: https://www.netapp.com/de/legal/privacypolicy/index.aspx
+• Japanese: https://www.netapp.co | Context string:
+2025-08-31 00:44:14,002 - support_bot - INFO - {'context': '• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*\n\n• German: https://www.netapp.com/de/legal/privacypolicy/index.aspx\n• Japanese: https://www.netapp.com/jp/legal/privacypolicy/index.aspx\n• France: https://www.netapp.com/fr/legal/privacypolicy/index.aspx\n• Spanish: https://www.netapp.com/es/legal/privacypolicy/index.aspx\n1 1\nFirst Edition (September 2018)\n© Copyright Lenovo 2018. \nLENOVO and the LENOVO logo are trademarks of Lenovo. All other trademarks are the property of their respective \nowners. © 2018 Lenovo.\nLIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services \nAdministration (GSA) contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS-35F- \n05925.\nPrinted in China\n(1P) P/N: SP47A24948\n*1PSP47A24948*', 'question': 'can goes japense links and get some info for me for service policy under warrenty'} | LLM inputs:
+2025-08-31 00:44:16,817 - support_bot - INFO - <----------get_agent_response() | content="You can find information on NetApp's service policy under warranty by visiting the Japanese link: https://www.netapp.com/jp/legal/privacypolicy/index.aspx. The provided text lists this link for Japanese language content." additional_kwargs={} response_metadata={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}, 'finish_reason': 'STOP', 'model_name': 'gemini-2.5-flash-lite', 'safety_ratings': []} id='run--6b0e3c42-9a86-41bf-8f1a-866104288476-0' usage_metadata={'input_tokens': 1106, 'output_tokens': 52, 'total_tokens': 1158, 'input_token_details': {'cache_read': 0}}
+2025-08-31 00:44:16,819 - support_bot - INFO -  | You can find information on NetApp's service policy under warranty by visiting the Japanese link: https://www.netapp.com/jp/legal/privacypolicy/index.aspx. The provided text lists this link for Japanese language content.
